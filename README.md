@@ -20,11 +20,11 @@ Through this app, you can look up a Pokémon card and see how much of a certain 
 
 <br/>
 
-[Live Project](https://github.com/jentruong09/crypto-cards)
+[Live Project](https://jentruong09.github.io/crypto-cards/)
 
 <br/>
 
-[Repository](https://jentruong09.github.io/crypto-cards/)
+[Repository](https://github.com/jentruong09/crypto-cards)
 
 <br/>
 
